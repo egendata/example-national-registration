@@ -15,7 +15,7 @@
     "morgan": "^1.9.1",
     "qrcode": "^1.4.2",
     "random-seed": "^0.3.0",
-    "uuid": "^3.3.2",
+    "uuid": "^3.3.3",
     "vash": "^0.12.6"
   },
   "devDependencies": {
