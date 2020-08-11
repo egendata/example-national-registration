@@ -12,7 +12,7 @@
     "elastic-apm-node": "^2.9.0",
     "express": "^4.16.4",
     "faker": "^4.1.0",
-    "morgan": "^1.9.1",
+    "morgan": "^1.10.0",
     "qrcode": "^1.4.2",
     "random-seed": "^0.3.0",
     "uuid": "^3.3.3",
